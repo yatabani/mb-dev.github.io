@@ -1,9 +1,8 @@
 defaults:
   -
     scope:
-      path: ""
-      type: "pages"
+      path: ''
     values:
-      layout: "default"
+      layout: 'default'
 markdown: kramdown
 highlighter: pygments
