@@ -1,0 +1,8 @@
+- title: 'Study Notes'
+  href: 'study-notes'
+  members:
+    - title: 'Machine Learning'
+      href: 'study-notes/ml'
+      members:
+        - title: 'Week 1'
+          href: 'study-notes/ml/week1'
