@@ -4,5 +4,6 @@ defaults:
       path: ''
     values:
       layout: 'default'
-markdown: kramdown
-highlighter: pygments
+markdown: 'kramdown'
+kramdown:
+  input: GFM
