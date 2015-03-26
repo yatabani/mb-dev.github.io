@@ -40,6 +40,12 @@ More info:
 [Capstone](https://www.coursera.org/course/cloudcapstone) <br/>
 Feb 2 - Mar 5, Mar 26 - Apr 16, Aug 24 - Sep 29, Nov 1 - Dec 15, Oct 26
 
+**More Resources:**
+
+- [Reddit](http://www.reddit.com/r/distributed), [Quora](http://www.quora.com/Distributed-Systems)
+- [Cockroach - Design Document](https://docs.google.com/document/d/11k2EmhLGSbViBvi6_zFEiKzuXxYF49ZuuDJLe6O8gBU/preview?sle=true)
+- [Distributed Systems - Reading](http://henryr.github.io/distributed-systems-readings/)
+
 ## Data Analysis
 - [The Analytics Edge](https://www.edx.org/course/analytics-edge-mitx-15-071x-0) - MIT - 3 March - R, logistic regression
 - Illinois - Data Mining - [Pattern Discovery](https://www.coursera.org/course/patterndiscovery), [Text Retrieval](https://www.coursera.org/course/textretrieval), [Cluster Analysis](https://www.coursera.org/course/clusteranalysis), [Text Analytics](https://www.coursera.org/course/textanalytics), [Data Visualization](https://www.coursera.org/course/datavisualization)
@@ -49,7 +55,7 @@ Feb 9, Mar 16, Apr 27, Jun 8, Jul 20
 - MIT - Supply Chain Logistics [Fundamentals](https://www.edx.org/course/supply-chain-logistics-fundamentals-mitx-ctl-sc1x), Supply Chain Design, Supply Chain Strategy
 Past, May 2015, Sept/Oct 2015, Jan/Feb 2016
 - [Data Science Specialization](https://www.coursera.org/specialization/jhudatascience/1) - Including R language, cleaning data etc.
-- [Mining Massive Datasets](https://www.coursera.org/course/mmds) - Stanford
+- [Mining Massive Datasets](https://www.coursera.org/course/mmds) - Stanford - Jan 31
 - [Process Mining: Data science in Action](https://www.coursera.org/course/procmin) - Netherlands
 - [Data, Analytics and Learning ](https://www.edx.org/course/data-analytics-learning-utarlingtonx-link5-10x#.VPoKlxbF-PQ)- Past
 
@@ -124,6 +130,7 @@ Notes:
 
 More resources:
 
+- [Reddit](http://www.reddit.com/r/MachineLearning), [Quora](http://www.quora.com/Machine-Learning)
 - [Best Machine Learning Resources](http://dk-techlogic.blogspot.com/2012/05/best-machine-learning-resources.html)
 - [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
 - [Clustering US Senators with k-means](http://blog.dataquest.io/blog/plotting-senators/)
