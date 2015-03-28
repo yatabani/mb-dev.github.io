@@ -145,11 +145,11 @@ Basics:
 
 Calculus:
 
+- UPenn: [Single Variable](https://www.coursera.org/course/calcsing),
 - MIT: [1A - Diffrentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x),
 [1B - Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x), [1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) - Q3 2015, Q4 2015, Q1 2016
 - MIT OCW: [Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/), [Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E)
 - [Introduction To Logic](https://www.coursera.org/course/intrologic) - Stanford
-- UPenn: [Single Variable](https://www.coursera.org/course/calcsing),
 - UCI: [Pre-calculus](https://www.coursera.org/course/precalculus)
 - Khan Academy: [Differential Calculus](https://www.khanacademy.org/math/differential-calculus),
 [Integral Calculus](https://www.khanacademy.org/math/integral-calculus),
@@ -168,11 +168,11 @@ Linear Algebra:
 
 Statistics:
 
+- [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - 3 Feb
+- [Data Analysis and Statistical Inference - Duke University](https://www.coursera.org/course/statistics) - Mar 2
 - [Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)
 - [Introduction to Dynamical Systems and Chaos ](http://www.complexityexplorer.org/online-courses/22-introduction-to-dynamical-systems-and-chaos-winter-2015) - Jan 2015
-- [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - 3 Feb
 - [Probabilistic Systems Analysis and Applied Probability - MIT OpenCourseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
-- [Data Analysis and Statistical Inference - Duke University](https://www.coursera.org/course/statistics) - Mar 2
 
 Advanced:
 
