@@ -22,3 +22,19 @@ The algorithms we will study include content-based filtering, user-user collabor
 - Privacy & Trust - who knows what about me? how can I deny some of the preferences, would the recommender system not leak information about me, is the recommendations honest (bias by operator, vulnerability to manipulation).
 - Interface: What output do we give? predictions, recommendations, filtering, organic vs. explicit. How we get feedback? explicit vs. implicit.
 - Recommendation Algorithms: Non personalized, content based (information filtering, knowledge based), collaborative filtering (user-user, item-item, dimension reduction), others.
+
+Data Model:
+
+- User, User Attributes <- Ratings -> Item, Item Attributes
+
+- Non Personalized Summary Stats:
+  - Best sellers, most popular, trending (zagat restaurant ratings, billboard music ranking)
+  - Rating table is a matrix, user x items and values 1-5.
+- Content Based Filtering:
+  - Knowledge based filtering
+  - Personalized news feeds
+  - Artist or Genre music feed
+- Linking them together:
+  - When rating movies - the attributes are going to be ranked instead of item themselves.
+  - User - user: find neighborhood with similar rating and use that for recommendations
+  - Item - item: precompute similarity among items via rating and use that for recommendation

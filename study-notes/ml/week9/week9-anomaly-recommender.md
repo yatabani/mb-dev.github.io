@@ -111,7 +111,7 @@ $
   - Very small number of anomalous (positive, y=1) examples (0-20)
   - Large number of normal (negative, y=0) example.
   - Many different types of anomalies, future anomalies may look nothing like the once we seen so far
-  - Fruad detection, Manufacturing, monitoring machines
+  - Fraud detection, Manufacturing, monitoring machines
 - Supervised learning:
   - Large number of positive and negative examples
   - Each positive examples for algorithm to get a sense of what positive examples are like, future positive examples likely to be similar to the training set.
