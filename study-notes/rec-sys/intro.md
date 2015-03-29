@@ -1,3 +1,7 @@
+---
+tags: ['study-notes', 'recsys']
+---
+
 # Recommender Systems - Intro
 [https://www.coursera.org/learn/recommender-systems/](https://www.coursera.org/learn/recommender-systems/)
 

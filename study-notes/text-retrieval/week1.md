@@ -1,4 +1,5 @@
 ---
+tags: ['study-notes', 'text-retrieval']
 ---
 
 # Text Retrieval and Search Engines

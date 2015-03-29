@@ -1,4 +1,5 @@
 ---
+tags: ['study-notes', 'cloud']
 ---
 
 # Week 1 - Leader Election

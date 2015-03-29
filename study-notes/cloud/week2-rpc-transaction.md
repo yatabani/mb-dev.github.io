@@ -1,5 +1,7 @@
 ---
+tags: ['study-notes', 'cloud']
 ---
+
 
 # Coursera - Cloud Computing 2 - Week 2
 
@@ -120,3 +122,36 @@ Assume the best, allow transactions to write, but check later.
 
 ## Replication
 Object has identical copies, each maintained by a separate servers. Used for fault tolerance, load balancing and higher availability.
+
+- Replication transparency - client should not be aware of multiple copies of object. Is provided using a front-end (driver, cloud) that routes the request to one of replicas.
+- Replication consistency - all clients see a single consistent copy of data. For transactions: guarantee ACID
+
+### Passive replication
+Uses a primary replica (master)
+
+- One replica is elected as master. Writes goes directly to the master
+- For reads - any of the replicas can be accessed
+
+### Active replication
+Treats all replicas identically
+
+- Multicast to the replica group.
+
+### Two phase commit
+
+![](TwoPhaseCommit.png)
+
+- There is a similar rule for serial operations - one copy serializability - transactions should behave the same as though there is only one replica.
+- Coordinator server (elected using election protocol) - sends prepare message. If all is okay, reply with Yes.
+- If any returned No or timeout, send abort to all servers
+- Otherwise, commit is sent, commit is saved, OK is returned back.
+
+**Failures:**
+
+- To deal with server crashes: Each server saves tentative updates to permanent storage right before replying Yes/No.
+- To deal with coordinator crashes: Coordinator logs all decisions and received/sent messages on disk
+- To deal with Commit or Abort message loss - server can poll coordinator (repeatedly)
+
+### Paxos
+- Paxos can be used for atomic commits but need to ensure aborts if any server votes no.
+- Paxos can also be used for ordering updates.

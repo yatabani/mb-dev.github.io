@@ -1,7 +1,18 @@
 <!DOCTYPE HTML>
 <html>
-{% include header.html %}
-{% include nav.html %}
-{% include main.html %}
-{% include footer.html %}
+  {% include header.html %}
+  <body>
+    <div class="container">
+      {% include top.html %}
+      <div class="row">
+        <div class="col-sm-3">
+          {% include nav.html %}
+        </div>
+        <div class="col-sm-9">
+          {% include main.html %}
+        </div>
+      </div>
+    </div>
+    {% include footer.html %}
+  </body>
 </html>

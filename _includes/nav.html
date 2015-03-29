@@ -1,12 +1,3 @@
-<div id="header">
-  <div class="top">
-    <div id="logo">
-      <h1 id="title">Moshe Bergman</h1>
-    </div>
-    <nav id="nav">
-      <ul>
-        {{include page.pagenav}}
-      </ul>
-    </nav>
-  </div>
-</div>
+{% for tag in page.tags %}
+  {% include {{tag | prepend:'nav-' | append:'.html'}}  %}
+{% endfor %}

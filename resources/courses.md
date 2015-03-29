@@ -94,6 +94,7 @@ Basic:
 - [Stanford Online - Andrew Ng - AI and Machine Learning](http://see.stanford.edu/see/lecturelist.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1)
 - [Statistical Learning - Stanford Online](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Jan 20
 - [Topic Modelling](https://www.coursera.org/course/modelthinking) - Jun 1
+- [Monte Carlo Methods, Stochastic Optimization](http://am207.org/) - On Demand
 
 Specific Topics:
 

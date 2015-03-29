@@ -1,3 +1,7 @@
+---
+tags: ['study-notes', 'ml']
+---
+
 # Coursera - Machine Learning - Week 9
 
 ## Anomaly Detection
@@ -5,7 +9,7 @@
 ### Problem Motivation
 Manufacture of aircraft and measure features of the aircraft and found some features and the normal values for them. Suppose a new engine comes along and we want to know if it's working the same as the previous or not.
 
-![Anomaly Detection Example](AnomalyDetectionExample.png)
+![Anomaly Detection Example](AnomalyDetectionExample.jpg)
 
 If the X is outside the normal range, we assume it's an anomaly. Or we want to know if Xtext is anomalous.
 
@@ -32,21 +36,28 @@ Examples:
 ## Guassian (Normal) Distribution
 Say $ x \in \mathbb{R} $, if $x$ is a distribution with mean $\mu$ and variance $\sigma^2$
 
-![](GuassianDistribution1.png)
+![](GuassianDistribution1.jpg)
 
 - $ x \sim \mathcal{N}(\mu,\sigma^2) $ - $\sim$ means distributed as.
 - $ \mu $ - center of bell curve
 - $ \sigma $ - the width of the curve or standard deviation
 - $ \sigma^2 $ - called the variance
-- $ \displaystyle p(x,\mu,\sigma^2) = \frac{1}{ \sigma \sqrt{2 \pi}} e^{\left(-\frac{{\left(\mu - x\right)}^{2}}{2 \, \sigma^{2}}\right)} $
 
-![](GuassianDistribution2.png)
+$$ \displaystyle
+  p(x,\mu,\sigma^2) = \frac{1}{ \sigma \sqrt{2 \pi} }
+    e^{
+      \left( -\frac{ { \left(\mu - x\right) }^{2} } {2 \, \sigma^{2}} \right)
+    }
+
+$$
+
+![](GuassianDistribution2.jpg)
 
 - The area under the curve always sums up to 1.
 
 ## Parameter estimation
 - Dataset: $ \{ x^{(1)}, x^{(2)},...,x^{(m)} \}, X^{(i)} \in \mathbb{R} $
-- And if I suspect they are guassian distribution - $ X \sim \mathcal{N}(\mu, \sigma^2) $
+- And if I suspect they are Gaussian distribution - $ X \sim \mathcal{N}(\mu, \sigma^2) $
 - I want to estimate the $\mu$ and $\sigma^2$
 - $ \mu = \frac{1}{m} \sum_{i=1}^{m} X^{(i)} $
 - $ \sigma^2 = \frac{1}{m} \sum_{i=1}^{m} (X^{(i)} - \mu)^2 $
@@ -69,7 +80,7 @@ Say $ x \in \mathbb{R} $, if $x$ is a distribution with mean $\mu$ and variance 
   - Or vectorized: $ \mu = \begin{bmatrix} \mu_1\\ \mu_2\\ .. \\ \mu_n \end{bmatrix} =   \frac{1}{m} \sum_{i=1}^{m} X^{(i)} $
 
 ## Example
-![](AnomalyDetectionExample3.png)
+![](AnomalyDetectionExample3.jpg)
 - The probability of the two features can be plotted to be the cone above
 - All the area below a certain height will be considered an anomaly
 
@@ -120,7 +131,7 @@ $
 ## What features to use?
 - We modeled features using Gaussian distribution. So plot histogram of the data to ensure is a Gaussian (hist command). If it does not look Gaussian we might shift it to make it Gaussian. The algorithm will work regardless, but transforming the data a bit might make it better.
 
-![](NonGuassianFeatures.png)
+![](NonGuassianFeatures.jpg)
 
 - or $ log (x_2 + c) $
 - or $ x_4^{\frac{1}{3}} $
@@ -128,7 +139,7 @@ $
 
 To come up with features:
 
-![](ErrorAnalysisGuassian.png)
+![](ErrorAnalysisGuassian.jpg)
 
 - Fit the model to the current features
 - See anomalies that we fail to detect
@@ -141,27 +152,27 @@ Choose features that might take on unusually large of small values in the event 
 
 ## Multivarate Guassian Distribution
 
-![](MotivatingExampleMultiGuassian.png)
+![](MotivatingExampleMultiGuassian.jpg)
 
 - Sometimes our normal features are not shaped exactly like a circle but have a more linear growth (the more CPU usage, the more memory usage) and the regular Gaussian might not manage to detect the failures.
 
-![](GuassianDistributionFormula.png)
+![](GuassianDistributionFormula.jpg)
 
 - The sigma on the equations is the covariance matrix and not summation symbol
 
-![](GuassianDistributionExamples.png)
+![](GuassianDistributionExamples.jpg)
 
 - shrinking sigma, the distribution is narrower and taller.
 - if sigma gets bigger, the distribution is flatter
 
-![](MultiGuassianExamples2.png)
+![](MultiGuassianExamples2.jpg)
 
 - If only one of the variables on the matrix changes, we get a more ellipsis shape
 - Can also modify the other diagonal in the covariance matrix to model negative or positive correlation between x and y.
 
 ## Algorithm
 
-![](MultivariableDistributionAlgorithm.png)
+![](MultivariableDistributionAlgorithm.jpg)
 
 1. Fit the model by setting $\mu$ and $\sigma$ above
 2. Given a new example x, compute p(x) using formula above

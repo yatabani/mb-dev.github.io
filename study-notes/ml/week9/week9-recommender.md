@@ -1,4 +1,10 @@
-# Machine Learning - Week 9 - Recommender Systems
+---
+tags: ['study-notes', 'ml']
+---
+
+# Machine Learning - Week 9
+
+## Recommender Systems
 
 - Recommender systems are one ML application that many are excited to try and improve
 - Receives less attention in academia.
@@ -46,7 +52,7 @@ $$ \large \min_{\theta^{(j)}} = \frac{1}{2}\sum_{r:i(i,j)=1}((\theta^{(j)})^T(X^
  - alpha - the learning rate. Different rate for k=0 and k!=0
  - Almost the same as linear regression except we removed 1/m
 
- ## Collaborative Filtering
+## Collaborative Filtering
  ![](CollaborativeFiltering.jpg)
 
  - Sometimes we don't have features for the movies.
@@ -71,7 +77,7 @@ $$
 - the summation is over all users who gave rating to a movie.
 - In this version we no longer have x(0)=1, so we remain with $ X \in \mathbb{R}^n $
 
-Steps:
+**Steps:**
 
 ![](CollaborativeFilteringAlgorithm.jpg)
 
