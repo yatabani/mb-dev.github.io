@@ -42,3 +42,15 @@ Data Model:
   - When rating movies - the attributes are going to be ranked instead of item themselves.
   - User - user: find neighborhood with similar rating and use that for recommendations
   - Item - item: precompute similarity among items via rating and use that for recommendation
+
+## Amazon Tour
+- Recommenders:
+  - What other customers are looking at right now. **Domain:** Products, **Purpose:** Sales, **Context:** Time, **Opinion:** Other customers, **level of personalization:** None, **privacy & trust:** None, **Interface:** Explain + products, **Algorithm:** Aggregation + business rules (in stock + enough markup)
+  - Searching for item: Ratings are displayed
+  - Clicking on item: Frequently Bought Together - product association recommender.
+  - Customers who bought this item also bought...
+  - Customers who looked at this item, also looked at...
+  - Add To cart ->
+  - Frequently bought together, and many other recommendations, your recent history.
+  - **Domain:** Products, **Purpose:** Sales, **Context:** Ephemeral, **Opinion:** Other customers who bought similar items, **level of personalization:** None, **privacy & trust:** None, **Interface:** Explain + products, **Algorithm:** Product association + business rules (in stock + enough markup)
+  - (And more)

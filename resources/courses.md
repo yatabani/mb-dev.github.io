@@ -173,11 +173,12 @@ Linear Algebra:
 
 Statistics:
 
-- [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - 3 Feb
 - [Data Analysis and Statistical Inference - Duke University](https://www.coursera.org/course/statistics) - Mar 2
+- [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - 3 Feb
 - [Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)
 - [Introduction to Dynamical Systems and Chaos ](http://www.complexityexplorer.org/online-courses/22-introduction-to-dynamical-systems-and-chaos-winter-2015) - Jan 2015
 - [Probabilistic Systems Analysis and Applied Probability - MIT OpenCourseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)
+- [Statistics 110 Harvard](https://www.youtube.com/playlist?list=PLLVplP8OIVc8EktkrD3Q8td0GmId7DjW0)
 
 Advanced:
 
