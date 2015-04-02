@@ -10,32 +10,33 @@
 ### Mar:
 - Machine Learning (Last exercise finish 3/29) - Primary
 - Cloud Computing (until 3/5), cloud computing (from 3/16)
-- Text Retrieval - (from Mar 20)
+- Modern Hebrew Poetry (from Mar 11)
 - Principles Of Written English (From Mar 11)
 
 ### Apr:
-- Academic and Business Writing (from 4/1)
 - Reactive Computing (from 4/13) - Primary
-- Text Retrieval - (until 4/19)
+- Mathematical Thinking
 - Cloud Computing (until 4/16)
-- Intro to spark (unknown start)
+- Intro to spark (4/30)
+- Academic and Business Writing (from 4/1)
+- Modern Hebrew Poetry
 
 ### May:
 - Intro to spark
+- Mathematical Thinking (until single variable)
 - Calculus: Single Variable (from 5/22)
 - Reactive Computing (until 5/30)
 - Think Again: How to Reason and Argue
+- Modern Hebrew Poetry
 
 ### Jun
 - Calculus: Single Variable
 - Scalable Machine Learning
-- Introduction to Mathematical Thinking
-- Modern Hebrew Poetry (from Mar 11)
+- Modern Hebrew Poetry
 
 ### Jul
 - Calculus: Single Variable
 - Data Visualization (from 7/20)
-- Calculus 1A: Differentiation
 - Poetry in America: The Poetry of Early New England
 
 ### Aug
@@ -46,12 +47,10 @@
 
 ### Sep
 - Cloud Computing Applications (until 9/24)
-- Introduction to Logic
 - Poetry in America: Whitman
 
 ### Oct
 - Cloud Computing Networking (from 10/26)
-- Calculus 1B: Integration
 - Poetry in America: Emily Dickinson
 
 ### Nov:

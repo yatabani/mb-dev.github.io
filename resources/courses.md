@@ -138,6 +138,7 @@ More resources:
 - [Guassian Process](http://www.gaussianprocess.org/)
 - [AI Hub](http://aihub.net/resources/)
 - [Neural Networks](http://karpathy.github.io/neuralnets/)
+- [Eliezer S Yudkoswsky](http://www.yudkowsky.net/)
 
 ## Math
 Basics:
@@ -149,7 +150,9 @@ Calculus:
 - UPenn: [Single Variable](https://www.coursera.org/course/calcsing),
 - MIT: [1A - Diffrentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x),
 [1B - Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x), [1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) - Q3 2015, Q4 2015, Q1 2016
-- MIT OCW: [Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/), [Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E)
+- MIT OCW: [Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/), [Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E), [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) [Youtube](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)<br>
+Multivariable - 35 lectures - 9 months
+- Princeton [Multivariable Calculus](https://www.youtube.com/playlist?list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28)
 - [Introduction To Logic](https://www.coursera.org/course/intrologic) - Stanford
 - UCI: [Pre-calculus](https://www.coursera.org/course/precalculus)
 - Khan Academy: [Differential Calculus](https://www.khanacademy.org/math/differential-calculus),
@@ -162,7 +165,8 @@ Linear Algebra:
 
 - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x) - Spring 2015
 - Applications of Linear Algebra [Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1), [Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2), 23 Feb, 6 Apr
-- [Linear Algebra - MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/) - (Fourier Series etc.)
+- [Linear Algebra - MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)  [Youtube](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - (Fourier Series etc.)<br>
+34 lectures - 9 months
 - [http://jackschaedler.github.io/circles-sines-signals/](http://jackschaedler.github.io/circles-sines-signals/) - Fourier Transform, circle, sine, cosine
 - [http://www.complexityexplorer.org/online-courses/18-mathematics-for-complex-systems](http://www.complexityexplorer.org/online-courses/18-mathematics-for-complex-systems) - Self Pace
 - [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix), Feb 2
