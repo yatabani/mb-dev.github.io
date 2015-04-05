@@ -1,26 +1,32 @@
 ---
+tags: ['main']
 ---
 
 # Courses & Resources
+
+## General
+- [MIT Classes with videos](http://ocw.mit.edu/courses/audio-video-courses/)
 
 ## Artificial Intelligence
 - [Artificial Intelligence - EDX ](https://www.edx.org/course/artificial-intelligence-uc-berkeleyx-cs188-1x-0#.VQco7BbF-PQ) - Berkeley, 6 Feb
 - [General Game Playing](https://www.coursera.org/course/ggp) - Stanford, Mar 30
 
 ## Algorithms
-- Algorithmic Thinking - [Part 1](https://www.coursera.org/course/algorithmicthink1), [Part 2](https://www.coursera.org/course/algorithmicthink2) - May 29 - Jun 26, Jul 10 - Aug 7
-(Graphs and brute-force algorithms, Algorithmic efficiency and BFS, Divide and conquer, Dynamic programming)
+- [Which Algorithm Course to study? - Quora](http://www.quora.com/Coursera/Which-is-better-for-beginners-to-learn-the-subject-the-Algorithms-Design-and-Analysis-course-taught-by-Tim-Roughgarden-of-Stanford-or-the-Algorithms-course-taught-by-Kevin-Wayne-and-Robert-Sedgewick-of-Princeton)
 - Stanford Algorithms - [Part 1](https://www.coursera.org/course/algo), [Part 2](https://www.coursera.org/course/algo2)- Jan 19, Mar 16
 (union-find, binary search, stacks, queues, bags, insertion sort, selection sort, shellsort, quicksort, 3-way quicksort, mergesort, heapsort, binary heaps, binary search trees, red-black trees, separate chaining and linear probing hash tables, Graham scan, and kd-trees)
 - Princeston Algorithms - [Part 1](https://www.coursera.org/course/algs4partI), [Part 2](https://www.coursera.org/course/algs4partII)
 (depth-first search, breadth-first search, topological sort, Kosaraju-Sharir, Kruskal, Prim, Dijkistra, Bellman-Ford, Ford-Fulkerson, LSD radix sort, MSD radix sort, 3-way radix quicksort, multiway tries, ternary search tries, Knuth-Morris-Pratt, Boyer-Moore, Rabin-Karp, regular expression matching, run-length coding, Huffman coding, LZW compression, and the Burrows-Wheeler transform)
+(Graphs and brute-force algorithms, Algorithmic efficiency and BFS, Divide and conquer, Dynamic programming)
 - [Analysis of algorithms](https://www.coursera.org/course/aofa) - Analysis of Algorithms
 - Stanford Cryptography [Part 1](https://www.coursera.org/course/crypto), [Part 2](https://www.coursera.org/course/crypto2) - 20 Apr, Jun 1
 - UC San Diego, Bioinformatics Algorithms [Part 1](https://www.coursera.org/course/bioinformatics), [Part 2](https://www.coursera.org/course/bioinformatics2) - Past, Mar 16 - Jun 10
+- Algorithmic Thinking - [Part 1](https://www.coursera.org/course/algorithmicthink1), [Part 2](https://www.coursera.org/course/algorithmicthink2) - May 29 - Jun 26, Jul 10 - Aug 7
 
-More info:
+Books:
 
-- [Karp 21 NP Complete Problems](http://en.wikipedia.org/wiki/Karp%27s_21_NP-complete_problems)
+- [The Algorithm Design Manual](http://www.amazon.com/dp/1848000693/)
+
 
 ## Business
 - Wharton Course - [Marketing](https://www.coursera.org/course/whartonmarketing), [Operations](https://www.coursera.org/course/whartonoperations),
@@ -85,6 +91,7 @@ Past, May 2015, Sept/Oct 2015, Jan/Feb 2016
 - [Introduction to Classical Music](https://www.coursera.org/course/introclassicalmusic)
 
 ## Machine Learning
+
 Basic:
 
 - AndrewNg: [Coursera](https://www.coursera.org/course/ml) - Jan 19 - Apr 19
@@ -131,14 +138,9 @@ Notes:
 
 More resources:
 
-- [Reddit](http://www.reddit.com/r/MachineLearning), [Quora](http://www.quora.com/Machine-Learning)
-- [Best Machine Learning Resources](http://dk-techlogic.blogspot.com/2012/05/best-machine-learning-resources.html)
-- [Using naive bayes to predict movie review sentiment](http://blog.dataquest.io/blog/naive-bayes-movies/)
-- [Clustering US Senators with k-means](http://blog.dataquest.io/blog/plotting-senators/)
-- [Guassian Process](http://www.gaussianprocess.org/)
-- [AI Hub](http://aihub.net/resources/)
-- [Neural Networks](http://karpathy.github.io/neuralnets/)
-- [Eliezer S Yudkoswsky](http://www.yudkowsky.net/)
+- [Machine Learning Self-study Resources](http://ragle.sanukcode.net/articles/machine-learning-self-study-resources/)
+- [Build me online Curriculum - Reddit](http://www.reddit.com/r/math/comments/13s6da/this_will_take_years_build_me_a_online_curriculum/)
+- [Data Science @ Coursera list](http://www.reddit.com/r/datascience/comments/23j67h/in_defense_of_coursera/)
 
 ## Math
 Basics:
@@ -166,7 +168,7 @@ Linear Algebra:
 - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x) - Spring 2015
 - Applications of Linear Algebra [Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1), [Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2), 23 Feb, 6 Apr
 - [Linear Algebra - MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)  [Youtube](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - (Fourier Series etc.)<br>
-34 lectures - 9 months
+34 lectures - 9 months, [Book - Amazon](http://www.amazon.com/gp/product/0980232716/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980232716&linkCode=as2&tag=moshberg-20&linkId=WQOBVOWUE4LMKX3Q)
 - [http://jackschaedler.github.io/circles-sines-signals/](http://jackschaedler.github.io/circles-sines-signals/) - Fourier Transform, circle, sine, cosine
 - [http://www.complexityexplorer.org/online-courses/18-mathematics-for-complex-systems](http://www.complexityexplorer.org/online-courses/18-mathematics-for-complex-systems) - Self Pace
 - [Coding the Matrix: Linear Algebra through Computer Science Applications](https://www.coursera.org/course/matrix), Feb 2

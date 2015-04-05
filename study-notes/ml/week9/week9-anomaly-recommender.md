@@ -2,9 +2,10 @@
 tags: ['study-notes', 'ml']
 ---
 
-# Coursera - Machine Learning - Week 9
+# Machine Learning - Stanford
+[https://www.coursera.org/course/ml](https://www.coursera.org/course/ml)
 
-## Anomaly Detection
+## Week 9 - Anomaly Detection
 
 ### Problem Motivation
 Manufacture of aircraft and measure features of the aircraft and found some features and the normal values for them. Suppose a new engine comes along and we want to know if it's working the same as the previous or not.
