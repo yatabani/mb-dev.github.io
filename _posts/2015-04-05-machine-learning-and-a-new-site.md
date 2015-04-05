@@ -1,5 +1,6 @@
 ---
 tags: ['main']
+title: 'Machine Learning and a new site'
 ---
 
 I just finished taking the [Machine Learning][2] class from Coursera. I became interested in the topic while looking for information about recommender systems. Machine Learning as a topic, has been around for a while. The Machine Learning course came out in [2011][1], the New Yorker wrote about the topic at [2012][5] and [2013][6]. By now, [everyone is talking about it][7]. This morning I saw A Ted talk by [Fei Fei Li][4] about [How we're teaching computers to understand pictures][3]
