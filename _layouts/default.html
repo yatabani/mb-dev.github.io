@@ -2,17 +2,30 @@
 <html>
   {% include header.html %}
   <body>
-    <div class="container">
-      {% include top.html %}
-      <div class="row">
-        <div class="col-sm-3">
-          {% include nav.html %}
-        </div>
-        <div class="col-sm-9">
-          {% include main.html %}
-        </div>
+
+    <header id="top" class="main-header">
+
+      <div class="module title color-1">
+          <img class="avatar" src="https://avatars2.githubusercontent.com/u/807807?s=460" width="80"/>
+          <h1><a href="/">Moshe Bergman</a></h1>
+          <p>Software development enthusiast</p>
       </div>
-    </div>
+
+      <div class="module links color-3">
+          <a href="https://github.com/mb-dev" title="Profile in Github" target="_blank">github</a>
+          <a href="https://twitter.com/MosheBergman" title="Profile in Twitter" target="_blank">twitter</a>
+          <a href="http://www.linkedin.com/in/moshebergman/" title="Profile in LinkedIn" target="_blank">LinkedIn</a>
+          <a href="{{ site.url }}/feed.xml" title="Suscribe to RSS" target="_blank">rss</a>
+      </div>
+
+      {% include nav.html %}
+
+    </header>
+
+
+    {{ content }}
+
     {% include footer.html %}
+
   </body>
 </html>

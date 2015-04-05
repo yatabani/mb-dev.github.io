@@ -3,7 +3,28 @@ defaults:
     scope:
       path: ''
     values:
-      layout: 'default'
+      excerpt_separator: <!--more-->
+  -
+    scope:
+      path: ""
+      type: posts
+    values:
+      layout: 'post'
+  -
+    scope:
+      path: ""
+      type: pages
+    values:
+      layout: 'page'
+
+name: 'Moshe Bergman'
+description: 'Personal website'
+
+paginate: 5
+permalink: /:title
+
+disqus-id: mbdev
+
 markdown: 'kramdown'
 kramdown:
   input: GFM

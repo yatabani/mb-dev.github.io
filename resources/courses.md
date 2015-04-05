@@ -1,8 +1,7 @@
 ---
+title: 'Courses & Resources'
 tags: ['main']
 ---
-
-# Courses & Resources
 
 ## General
 - [MIT Classes with videos](http://ocw.mit.edu/courses/audio-video-courses/)
@@ -108,7 +107,7 @@ Specific Topics:
 - [Recommendation systems](https://www.coursera.org/course/recsys) - Self Paced
 - [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) - Apr 8
 Maximum Likelihood estimation
-- [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/ud820)
+- [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/ud820)w
 Markov Decision
 - [Neural Networks - Coursera](https://www.coursera.org/course/neuralnets) Recurrent Networks - from 2012
 - [Natural Language Processing](https://www.coursera.org/course/nlp) - Stanford - No current sessions

@@ -1,8 +1,7 @@
 ---
 tags: ['study-notes', 'cloud']
+title: 'Week 1 - Leader Election'
 ---
-
-# Week 1 - Leader Election
 
 ## Ring Election Leader
 

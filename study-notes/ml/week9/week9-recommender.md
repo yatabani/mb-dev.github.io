@@ -1,10 +1,11 @@
 ---
 tags: ['study-notes', 'ml']
+title: 'Machine Learning - Stanford'
 ---
 
-# Machine Learning - Week 9
+[https://www.coursera.org/course/ml](https://www.coursera.org/course/ml)
 
-## Recommender Systems
+## Week 9 - Recommender Systems
 
 - Recommender systems are one ML application that many are excited to try and improve
 - Receives less attention in academia.
@@ -69,7 +70,7 @@ There is a better algorithm that does not require going back and fourth between 
 
 $$
   \large J(x^1,...x^{n_m},\theta^1,...,\theta^{n_u})
-  \frac{1}{2} \sum_{(i,j):r(i,j)=1} ((\theta^j)^Tx^{(i)}-y^{i,j})^2 +
+  \frac{1}{2} \sum_{(i,j):r(i,j)=1} ((\theta^j)^Tx(i)-y^{i,j})^2 +
   \frac{\lambda}{2} \sum_{i=1}^{n_m} \sum_{k=1}^n(x_k^i)^2 +
   \frac{\lambda}{2} \sum_{i=1}^{n_m} \sum_{k=1}^n(\theta_k^i)^2
 $$

@@ -1,8 +1,8 @@
 ---
 tags: ['study-notes', 'ml']
+title: 'Machine Learning - Stanford'
 ---
 
-# Machine Learning - Stanford
 [https://www.coursera.org/course/ml](https://www.coursera.org/course/ml)
 
 ## Week 10 - Large Scale Machine Learning

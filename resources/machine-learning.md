@@ -1,5 +1,6 @@
 ---
 tags: ['main']
+title: 'Machine Learning Resources'
 ---
 
 ## Conferences:

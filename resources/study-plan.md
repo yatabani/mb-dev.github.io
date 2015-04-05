@@ -1,8 +1,9 @@
 ---
 tags: ['main']
+title: 'Study Plan 2015 - 2016'
 ---
 
-# Study Plan 2015 - 2016
+The list below is a draft / work in progress.
 
 ### Jan 2015:
 - Machine Learning (from 1/19)
