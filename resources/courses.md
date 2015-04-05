@@ -43,8 +43,8 @@ Books:
 [Part 2](https://www.coursera.org/course/cloudcomputing2),
 [Applications](https://www.coursera.org/course/cloudapplications),
 [Networking](https://www.coursera.org/course/cloudnetworking),
-[Capstone](https://www.coursera.org/course/cloudcapstone) <br/>
-Feb 2 - Mar 5, Mar 26 - Apr 16, Aug 24 - Sep 29, Nov 1 - Dec 15, Oct 26
+[Capstone](https://www.coursera.org/course/cloudcapstone)
+  Feb 2 - Mar 5, Mar 26 - Apr 16, Aug 24 - Sep 29, Nov 1 - Dec 15, Oct 26
 
 **More Resources:**
 
@@ -96,7 +96,7 @@ Basic:
 
 - AndrewNg: [Coursera](https://www.coursera.org/course/ml) - Jan 19 - Apr 19
 - [Machine Learning complete - Youtube with Andrew](https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH)
-- [Machine Learning](https://class.coursera.org/machlearning-001/lecture/preview) - University of Washington - Past Course<br>
+- [Machine Learning](https://class.coursera.org/machlearning-001/lecture/preview) - University of Washington - Past Course
   Random Forests
 - [Stanford Online - Andrew Ng - AI and Machine Learning](http://see.stanford.edu/see/lecturelist.aspx?coll=348ca38a-3a6d-4052-937d-cb017338d7b1)
 - [Statistical Learning - Stanford Online](https://class.stanford.edu/courses/HumanitiesandScience/StatLearning/Winter2015/about) - Jan 20
@@ -111,9 +111,9 @@ Maximum Likelihood estimation
 - [Machine Learning: Reinforcement Learning](https://www.udacity.com/course/ud820) <br>
 Markov Decision
 - [Neural Networks - Coursera](https://www.coursera.org/course/neuralnets) Recurrent Networks - from 2012
-- [Natural Language Processing](https://www.coursera.org/course/nlp) - Stanford - No current sessions<br>
+- [Natural Language Processing](https://www.coursera.org/course/nlp) - Stanford - No current sessions
 (n-gram, naive bayes, sentiment analysis, maximum entropy, named entity, relation extraction, parts of speech, Stochastic context-free grammar, TF-IDF, semantics, question answering)
-- [Natural Language Processing](https://www.coursera.org/course/nlangp) - Columbia - available past session<br>
+- [Natural Language Processing](https://www.coursera.org/course/nlangp) - Columbia - available past session
 (Markov Process, Translation, n-gram, global linear model, Stochastic context-free grammar, Hidden Markov model)
 - [Convex Optimization - Stanford Online](https://class.stanford.edu/courses/Engineering/CVX101/Winter2014/about)
 - [Probabilistic Graphical Models](https://www.coursera.org/course/pgm) - Stanford - Apr 8
@@ -127,7 +127,7 @@ Books:
 
 - Deep learning - future book: [http://www.iro.umontreal.ca/~bengioy/dlbook/](http://www.iro.umontreal.ca/~bengioy/dlbook/)
 - [Deep Learning - Reading List](http://deeplearning.net/reading-list/)
-- [Scalable Machine Learning - Patrick Nicolas](http://www.amazon.com/Scala-Machine-Learning-Patrick-Nicolas/dp/1783558741)
+- [Scala for Machine Learning - Patrick Nicolas](http://www.amazon.com/Scala-Machine-Learning-Patrick-Nicolas/dp/1783558741)
 - [Probabilistic Graphical Models](https://github.com/JimmyLin192/GraphicalModel/blob/master/Probabilistic%20Graphical%20Models%20Principles%20and%20Techniques.pdf)
 
 Notes:
@@ -152,7 +152,7 @@ Calculus:
 - UPenn: [Single Variable](https://www.coursera.org/course/calcsing),
 - MIT: [1A - Diffrentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x),
 [1B - Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x), [1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) - Q3 2015, Q4 2015, Q1 2016
-- MIT OCW: [Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/), [Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E), [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) [Youtube](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)<br>
+- MIT OCW: [Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/), [Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E), [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) [Youtube](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 Multivariable - 35 lectures - 9 months
 - Princeton [Multivariable Calculus](https://www.youtube.com/playlist?list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28)
 - [Introduction To Logic](https://www.coursera.org/course/intrologic) - Stanford
@@ -167,7 +167,7 @@ Linear Algebra:
 
 - [Linear Algebra - Foundations to Frontiers](https://www.edx.org/course/linear-algebra-foundations-frontiers-utaustinx-ut-5-02x) - Spring 2015
 - Applications of Linear Algebra [Part 1](https://www.edx.org/course/applications-linear-algebra-part-1-davidsonx-d003x-1), [Part 2](https://www.edx.org/course/applications-linear-algebra-part-2-davidsonx-d003x-2), 23 Feb, 6 Apr
-- [Linear Algebra - MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)  [Youtube](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - (Fourier Series etc.)<br>
+- [Linear Algebra - MIT Open Courseware](http://ocw.mit.edu/courses/mathematics/18-06-linear-algebra-spring-2010/video-lectures/)  [Youtube](https://www.youtube.com/playlist?list=PL49CF3715CB9EF31D) - (Fourier Series etc.)
 34 lectures - 9 months, [Book - Amazon](http://www.amazon.com/gp/product/0980232716/ref=as_li_tl?ie=UTF8&camp=1789&creative=9325&creativeASIN=0980232716&linkCode=as2&tag=moshberg-20&linkId=WQOBVOWUE4LMKX3Q)
 - [http://jackschaedler.github.io/circles-sines-signals/](http://jackschaedler.github.io/circles-sines-signals/) - Fourier Transform, circle, sine, cosine
 - [http://www.complexityexplorer.org/online-courses/18-mathematics-for-complex-systems](http://www.complexityexplorer.org/online-courses/18-mathematics-for-complex-systems) - Self Pace
@@ -189,11 +189,11 @@ Advanced:
 
 How much math for ML?
 
-[What math subjects for machine learning (Stack Overflow)](http://stats.stackexchange.com/questions/68793/what-math-subjects-would-you-suggest-to-prepare-for-data-mining-and-machine-lear)
+- [What math subjects for machine learning (Stack Overflow)](http://stats.stackexchange.com/questions/68793/what-math-subjects-would-you-suggest-to-prepare-for-data-mining-and-machine-lear)
 
 More Resources:
 
-[Theoretical Computer Science Cheat Sheet](Theoretical Computer Science Cheat Sheet)
+- [Theoretical Computer Science Cheat Sheet](Theoretical Computer Science Cheat Sheet)
 
 ## Programming Lanuages
 
@@ -206,11 +206,12 @@ More Resources:
 
 Books:
 
-- http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list
+- [The Definitive C++ Book Guide](http://stackoverflow.com/questions/388242/the-definitive-c-book-guide-and-list)
 
 **Python:**
-- https://developers.google.com/edu/python/
-- http://mechanicalmooc.org/
+
+- [https://developers.google.com/edu/python/](https://developers.google.com/edu/python/)
+- [http://mechanicalmooc.org/](http://mechanicalmooc.org/)
 
 
 ## Code Challenges
