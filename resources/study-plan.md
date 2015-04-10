@@ -62,16 +62,18 @@ Detailed Schedule (3 evenings a week - Sunday practice):
 - Poetry in America: Nature and Nation, 1700-1850
 
 ### Sep
-- Linear Algebra
+- Mathematical Thinking, Linear Algebra
+- Algorithms - Princeston
 - Poetry in America: Whitman
 
 ### Oct
-- Linear Algebra
+- Mathematical Thinking, Linear Algebra
+- Algorithms - Princeston
 - Poetry in America: Emily Dickinson
 
 ### Nov:
-- Linear Algebra
-- Cloud Computing Networking
+- Mathematical Thinking, Linear Algebra
+- Algorithms - Princeston
 
 ### Dec:
 - Linear Algebra

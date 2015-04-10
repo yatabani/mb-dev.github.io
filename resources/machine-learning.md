@@ -25,16 +25,23 @@ title: 'Machine Learning Resources'
 - [London University - MSc Computational Statistics & Machine Learning](http://www.cs.ucl.ac.uk/degrees/msc_csml/) - Tuition $33k
 - [What is it like to study master's in machine learning at UCL (University College London)?](http://www.quora.com/What-is-it-like-to-study-masters-in-machine-learning-at-UCL-University-College-London)
 
+**Canada:**
+- [University of BC](https://www.cs.ubc.ca/cs-research/lci/research-groups/machine-learning)
+
 **US:**
 
 - [CS 229 - Stanford - Machine Learning](http://cs229.stanford.edu/materials.html)
 
-- [University Of California - Irvine](http://cml.ics.uci.edu/?page=groups&subPage=labs)
+- [University Of California - Irvine](http://cml.ics.uci.edu/?page=groups&subPage=labs) - [ML Group](http://www.ics.uci.edu/~smyth/grad.html) - tuition - 16k
 - [University Of Santa Barbara](https://www.cs.ucsb.edu/research/machine-learning-and-data-mining) - Tuition $12k
   - Linda Petzold - Modeling, analysis, simulation and software, applied to multiscale, networked systems in biology, materials and social networks, Advanced algorithms for discrete stochastic simulation of systems
 
 - [University Of Berkeley - Michael I. Jordan](http://www.cs.berkeley.edu/~jordan/)
 - [University Of Berkeley - 294 - Practical Machine Learning](https://www.cs.berkeley.edu/~jordan/courses/294-fall09/)
+
+**Israel:**
+
+- [Hebrew University](http://www.cs.huji.ac.il/labs/learning/lab_page.html)
 
 ## Startups:
 - [What startups are hiring engineers with strengths in machine learning/NLP?](http://www.quora.com/What-startups-are-hiring-engineers-with-strengths-in-machine-learning-NLP)

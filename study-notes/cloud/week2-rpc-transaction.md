@@ -1,11 +1,11 @@
 ---
 tags: ['study-notes', 'cloud']
+title: 'Cloud Computing Concepts'
 ---
+[https://www.coursera.org/course/cloudcomputing2](https://www.coursera.org/course/cloudcomputing2)
 
+# Week 2 - RPC and Transactions
 
-# Coursera - Cloud Computing 2 - Week 2
-
-## RPC
 ### Why RPC?
 - Allow process to call functions in other processes.
 - In local procedure call the arguments are passed by the stack and common objects can be referred to using pointers.
@@ -120,7 +120,7 @@ Assume the best, allow transactions to write, but check later.
 - Uses vector clocks
 - Implements casual ordering to determine if write are committed or **sibling value** value is created and need to be handled by application.
 
-## Replication
+### Replication
 Object has identical copies, each maintained by a separate servers. Used for fault tolerance, load balancing and higher availability.
 
 - Replication transparency - client should not be aware of multiple copies of object. Is provided using a front-end (driver, cloud) that routes the request to one of replicas.

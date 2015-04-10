@@ -1,8 +1,8 @@
 ---
 tags: ['study-notes', 'text-retrieval']
+title: 'Text Retrieval and Search Engines'
 ---
-
-# Text Retrieval and Search Engines
+(https://www.coursera.org/course/textretrieval)[https://www.coursera.org/course/textretrieval] 
 
 ![CourseSchedule](./CourseSchedule.jpg)
 

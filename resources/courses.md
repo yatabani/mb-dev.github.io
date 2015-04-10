@@ -28,8 +28,7 @@ Books:
 
 
 ## Business
-- Wharton Course - [Marketing](https://www.coursera.org/course/whartonmarketing), [Operations](https://www.coursera.org/course/whartonoperations),
-[Accounting](https://www.coursera.org/course/whartonaccounting), [Finance](https://www.coursera.org/course/whartonfinance)
+- Wharton Course - [Marketing](https://www.coursera.org/course/whartonmarketing), [Operations](https://www.coursera.org/course/whartonoperations), [Accounting](https://www.coursera.org/course/whartonaccounting), [Finance](https://www.coursera.org/course/whartonfinance)
 - [Micro Ecomomics](https://www.coursera.org/course/microecon) - Dec 22- Apr 11
 - [Fundamentals of Management](https://www.coursera.org/course/funmanage) - Apr 6
 - [Communication in the 21st Century Workplace](https://www.coursera.org/course/21stcencom) - Apr 6
