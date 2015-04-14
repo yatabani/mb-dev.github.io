@@ -1,6 +1,8 @@
 ---
 tags: ['study-notes', 'hebrew-poetry']
+title: 'Modern Hebrew Poetry'
 ---
+[https://www.coursera.org/course/hebrewpoetry1](https://www.coursera.org/course/hebrewpoetry1)
 
 # Week 1 - Intro
 - The hebrew language was laying dormant for many decades and was not used.
@@ -37,6 +39,30 @@ tags: ['study-notes', 'hebrew-poetry']
 - Every generation pushes back on some concepts and adopts others.
 
 ## Terms
-- [Romanticism](http://en.wikipedia.org/wiki/Romanticism) - Was part of a generation. Also an element that can be found in other eras.
-- Was part of the french revolution and freedom. To freedom of mind and imagination. Emotion, Imagination and Dreams captured the center of the discourse.
--
+- [Romanticism][4] - Was part of a generation - in a pretty short time frame. Yet as an idea, it could be found in other eras.
+- Was part of the french revolution and freedom. To freedom of mind and imagination. From thought to emotion, imagination and dreams captured the center of the discourse.
+- Just like grand state of nature, so man was thought to be grand as well, which showed in art and music.
+- [Nationalism][1] developed at the same time. Man belongs to a nation, a place and language.
+- Longing is also getting mainstream during the  Romanticism.
+- [Impressionism][3] are painters who rebelled against requirement to draw in a precise way. Where the focus moves from the painting to the visitor. [See also about Pointillism][5]
+- [Modernism][2] - Change in the way of government - from kings, monarchs and fuedelism to political systems.
+- [Postmodernism][6] - Questioning previous isms, questioning the enlightenment.
+- In music, the writer controls the flow of reading, by ending each line at some lengths.
+- [Chronobiology][7] - when it comes to music - the pace of the music
+- [Metre][8] - counting verses and lines in the music.
+- [Alliteration][9] - repeated sound of the first consonant in a series of multiple words
+-  Two ways to make effects. 1) [Expressive][11]  2) [Onomatopoeia][10]
+- Example: [Arik Einstein - Chivaron][12]
+
+[1]: http://en.wikipedia.org/wiki/Nationalism
+[2]: http://en.wikipedia.org/wiki/Modernism
+[3]: http://en.wikipedia.org/wiki/Impressionism
+[4]: http://en.wikipedia.org/wiki/Romanticism
+[5]: http://en.wikipedia.org/wiki/Pointillism
+[6]: http://en.wikipedia.org/wiki/Postmodernism
+[7]: http://en.wikipedia.org/wiki/Chronobiology
+[8]: http://en.wikipedia.org/wiki/Metre_(poetry)
+[9]: http://en.wikipedia.org/wiki/Alliteration
+[10]: http://en.wikipedia.org/wiki/Onomatopoeia
+[11]: http://en.wikipedia.org/wiki/Music_and_emotion#Expressive_behavior
+[12]: https://www.rxlyrics.com/lyrics/a/%D7%90%D7%A8%D7%99%D7%A7-%D7%90%D7%99%D7%99%D7%A0%D7%A9%D7%98%D7%99%D7%99%D7%9F/%D7%97%D7%99%D7%95%D7%95%D7%A8%D7%95%D7%9F-29.html
