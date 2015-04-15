@@ -20,7 +20,11 @@ tags: ['main']
 - [Analysis of algorithms](https://www.coursera.org/course/aofa) - Analysis of Algorithms
 - Stanford Cryptography [Part 1](https://www.coursera.org/course/crypto), [Part 2](https://www.coursera.org/course/crypto2) - 20 Apr, Jun 1
 - UC San Diego, Bioinformatics Algorithms [Part 1](https://www.coursera.org/course/bioinformatics), [Part 2](https://www.coursera.org/course/bioinformatics2) - Past, Mar 16 - Jun 10
+<<<<<<< Updated upstream
 - Algorithmic Thinking - [Part 1](https://www.coursera.org/course/algorithmicthink1), [Part 2](https://www.coursera.org/course/algorithmicthink2) - May 29 - Jun 26, Jul 10 - Aug 7
+=======
+- [Discrete Optimization](https://www.coursera.org/course/optimization) - Coursera - Mar 4
+>>>>>>> Stashed changes
 
 Books:
 
@@ -145,16 +149,18 @@ Basics:
 
 - [Introduction to Mathematical Thinking - Stanford](https://www.coursera.org/course/maththink) - Feb 14
 
-Calculus:
+Calculus [Book](http://www.amazon.com/gp/product/0914098918/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0914098918&linkCode=as2&tag=moshberg-20&linkId=3UCIMAMDTL3LEUG2):
 
-- UPenn: [Single Variable](https://www.coursera.org/course/calcsing),
-- MIT: [1A - Diffrentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x),
-[1B - Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x), [1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) - Q3 2015, Q4 2015, Q1 2016
+- UCI: [Pre-calculus](https://www.coursera.org/course/precalculus)
+- UPenn: [Single Variable](https://www.coursera.org/course/calcsing) - May 22
 - MIT OCW: [Single Variable Calculus](http://ocw.mit.edu/courses/mathematics/18-01-single-variable-calculus-fall-2006/video-lectures/), [Differential Equations](https://www.youtube.com/playlist?list=PL64BDFBDA2AF24F7E), [Multivariable Calculus](http://ocw.mit.edu/courses/mathematics/18-02-multivariable-calculus-fall-2007/) [Youtube](https://www.youtube.com/playlist?list=PL4C4C8A7D06566F38)
 Multivariable - 35 lectures - 9 months
+- MIT: [1A - Diffrentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x),
+[1B - Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x), [1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) - Q3 2015, Q4 2015, Q1 2016
+- MIT: [1A - Diffrentiation](https://www.edx.org/course/calculus-1a-differentiation-mitx-18-01-1x),
+[1B - Integration](https://www.edx.org/course/calculus-1b-integration-mitx-18-01-2x), [1C - Coordinate Systems and Infinite Series](https://www.edx.org/course/calculus-1c-coordinate-systems-infinite-mitx-18-01-3x) - Q3 2015, Q4 2015, Q1 2016
 - Princeton [Multivariable Calculus](https://www.youtube.com/playlist?list=PLGqzsq0erqU7h6_bpE-CgJp4iX5aRju28)
 - [Introduction To Logic](https://www.coursera.org/course/intrologic) - Stanford
-- UCI: [Pre-calculus](https://www.coursera.org/course/precalculus)
 - Khan Academy: [Differential Calculus](https://www.khanacademy.org/math/differential-calculus),
 [Integral Calculus](https://www.khanacademy.org/math/integral-calculus),
 [Multivariable Calculus](https://www.khanacademy.org/math/multivariable-calculus),
@@ -173,6 +179,7 @@ Linear Algebra:
 
 Statistics:
 
+- [Statistics One - Princeston](https://www.coursera.org/course/stats1)
 - [Data Analysis and Statistical Inference - Duke University](https://www.coursera.org/course/statistics) - Mar 2
 - [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - 3 Feb
 - [Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)

@@ -78,5 +78,7 @@ Detailed Schedule (3 evenings a week - Sunday practice):
 ### Dec:
 - Linear Algebra
 
-### Jan 2016
+### 2016
 - Calculus 1C
+- Cryptography I
+- Cryptography II
