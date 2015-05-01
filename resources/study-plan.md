@@ -78,7 +78,6 @@ Detailed Schedule (3 evenings a week - Sunday practice):
 ### Dec:
 - Linear Algebra
 
-### 2016
-- Calculus 1C
-- Cryptography I
-- Cryptography II
+### Jan 2016
+- Introduction to Probability - The Science of Uncertainty
+- Discrete Optimization

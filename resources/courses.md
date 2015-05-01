@@ -20,11 +20,8 @@ tags: ['main']
 - [Analysis of algorithms](https://www.coursera.org/course/aofa) - Analysis of Algorithms
 - Stanford Cryptography [Part 1](https://www.coursera.org/course/crypto), [Part 2](https://www.coursera.org/course/crypto2) - 20 Apr, Jun 1
 - UC San Diego, Bioinformatics Algorithms [Part 1](https://www.coursera.org/course/bioinformatics), [Part 2](https://www.coursera.org/course/bioinformatics2) - Past, Mar 16 - Jun 10
-<<<<<<< Updated upstream
 - Algorithmic Thinking - [Part 1](https://www.coursera.org/course/algorithmicthink1), [Part 2](https://www.coursera.org/course/algorithmicthink2) - May 29 - Jun 26, Jul 10 - Aug 7
-=======
 - [Discrete Optimization](https://www.coursera.org/course/optimization) - Coursera - Mar 4
->>>>>>> Stashed changes
 
 Books:
 
@@ -66,6 +63,7 @@ Past, May 2015, Sept/Oct 2015, Jan/Feb 2016
 - [Mining Massive Datasets](https://www.coursera.org/course/mmds) - Stanford - Jan 31
 - [Process Mining: Data science in Action](https://www.coursera.org/course/procmin) - Netherlands
 - [Data, Analytics and Learning ](https://www.edx.org/course/data-analytics-learning-utarlingtonx-link5-10x#.VPoKlxbF-PQ)- Past
+- [Introduction to Computational Thinking and Data Science](https://www.edx.org/course/introduction-computational-thinking-data-mitx-6-00-2x-0)
 
 ## Humanities
 - [Learning How to Learn: Powerful mental tools to help you master tough subjects](https://www.coursera.org/course/learning)
@@ -181,7 +179,7 @@ Statistics:
 
 - [Statistics One - Princeston](https://www.coursera.org/course/stats1)
 - [Data Analysis and Statistical Inference - Duke University](https://www.coursera.org/course/statistics) - Mar 2
-- [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - 3 Feb
+- [Introduction to Probability - The Science of Uncertainty](https://www.edx.org/course/introduction-probability-science-mitx-6-041x-0) - [Book](http://www.amazon.com/gp/product/188652923X/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=188652923X&linkCode=as2&tag=moshberg-20&linkId=DA4AUKTUJFMFNPWM) 3 Feb
 - [Intro to Descriptive Statistics](https://www.udacity.com/course/ud827)
 - [Introduction to Dynamical Systems and Chaos ](http://www.complexityexplorer.org/online-courses/22-introduction-to-dynamical-systems-and-chaos-winter-2015) - Jan 2015
 - [Probabilistic Systems Analysis and Applied Probability - MIT OpenCourseware](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-041sc-probabilistic-systems-analysis-and-applied-probability-fall-2013/)

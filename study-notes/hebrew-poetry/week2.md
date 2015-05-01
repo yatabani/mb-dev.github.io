@@ -19,9 +19,12 @@ title: 'Modern Hebrew Poetry'
 - Some words were added in these songs and they were sometime translated on the edges of the paper.
 - [Tsernichovski - Levivot][4] - Example of Idyll song about a person getting connected to nature.
 - Tsernichovski manages to create a feel good song that contains a lot of detailed description of natural items - washing cup, levivot all of those are described in great poetic level that is unprecedented in jewish thought.
+- [Tsernichovski - Rei Adama][5]
+- We planted people instead of flowers, young people. The land is neutral and does not understand what is happening.
 
 
 [1]: http://www.sikumuna.co.il/wiki/%D7%9C%D7%90_%D7%A8%D7%92%D7%A2%D7%99_%D7%A9%D7%A0%D7%AA_/_%D7%A9%D7%90%D7%95%D7%9C_%D7%98%D7%A9%D7%A8%D7%A0%D7%99%D7%97%D7%95%D7%91%D7%A1%D7%A7%D7%99
 [2]: http://benyehuda.org/tchernichowsky/lenoxax_pesel_apollo.html
 [3]: http://benyehuda.org/tchernichowsky/at_ko_rexaniya.html
 [4]: http://benyehuda.org/tchernichowsky/levivot.html
+[5]: http://benyehuda.org/tchernichowsky/rei_adama.html
