@@ -26,6 +26,7 @@ title: 'Machine Learning Resources'
 - [What is it like to study master's in machine learning at UCL (University College London)?](http://www.quora.com/What-is-it-like-to-study-masters-in-machine-learning-at-UCL-University-College-London)
 
 **Canada:**
+
 - [University of BC](https://www.cs.ubc.ca/cs-research/lci/research-groups/machine-learning)
 
 **US:**

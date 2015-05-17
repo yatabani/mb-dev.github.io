@@ -24,7 +24,7 @@
 -------------------------------------------------------------------------*/
 
 html, body {
-    background: #d1d1d1;
+    background: whitesmoke;
     font-family: 'Open Sans', sans-serif;
     font-size: 24px;
     margin: 0;
@@ -68,12 +68,10 @@ nav {
 
 
 article p a {
-    border-bottom: .125em solid #ccc;
-    display: inline;
-    padding: 0 0 .15em 0;
+    text-decoration: underline;
 }
 
-    article p a:hover, article p a:active {
+    article p a:active {
         color: #f2f2f2 !important;
         background: #2c3e50;
         border: 0;
@@ -87,8 +85,8 @@ article p a {
     float: left;
     font-weight: 300;
     line-height: 1.7;
-    text-align: center;
     width: 35%;
+    background: #3D4349;
 }
 
     .main-header h1 {
@@ -101,7 +99,7 @@ article p a {
         font-family: 'Raleway', 'sans-serif';
     }
 
-    .main-header a:hover, .main-header a:focus { color: #e1e1e1; }
+    .main-header a:focus { color: #e1e1e1; }
 
     .main-header p {
       margin-top: 5px;
@@ -115,6 +113,7 @@ article p a {
 .main-header .avatar {
   background-color: #F5F5F5;
   border-radius: 50% 50% 50% 50%;
+  margin-bottom: 15px;
 }
 
 .main-header .list-group {
@@ -141,7 +140,6 @@ article p a {
 }
 
     .main-content a { color: #2c3e50; }
-    .main-content a:hover, .main-content a:focus { color: #2980b9; }
 
 
 .category {
@@ -166,10 +164,10 @@ hr {
     overflow: hidden;
     padding: 1.5em;
     position: relative;
+    padding-bottom: 0;
 }
 
     .main-content .module {
-        border-bottom: 2px solid #b1b1b1;
         font-size: 0.8em;
         margin-right: 1em;
     }
@@ -194,7 +192,6 @@ hr {
 -------------------------------------------------------------------------*/
 
 .main-content.page .inner {
-  border-bottom: 2px solid #b1b1b1;
   font-size: 0.6em;
   margin-right: 1em;
 
@@ -256,7 +253,7 @@ blockquote {
     text-transform: lowercase;
 }
 
-    .links a:hover, .links a:active {
+    .links a:active {
         color: #212121;
         text-decoration: underline;
     }
@@ -281,45 +278,6 @@ table {
     table thead tr { background: #f2f2f2 !important; }
     table tr:nth-child(odd) { background: #f2f2f2; }
     table tr:nth-child(even)  { background: #e1e1e1; }
-
-
-/* ------------------------------------------------------------------------
--  Social share (end of the post). -
--------------------------------------------------------------------------*/
-
-.social {
-    padding: 0 !important;
-    text-align: right;
-}
-    .social ul {
-        list-style: none;
-        list-style-position: inside;
-        margin: 0 !important;
-        padding: 0 !important;
-    }
-
-    .social li {
-        display: inline-block;
-        margin: 0 !important;
-        padding: 0.5em;
-    }
-
-    .social li a {
-        color: #f5f5f5;
-        display: block;
-        margin: 0;
-        padding: 0;
-        width: 100%;
-    }
-
-    .social li a:hover, .social li a:active {
-        color: #f5f5f5;
-        text-decoration: underline;
-    }
-
-    .fb { background: #2c3e50; } .fb:hover { background: #34495e; }
-    .tw { background: #2980b9; } .tw:hover { background: #3498db; }
-    .gp { background: #c0392b; } .gp:hover { background: #e74c3c; }
 
 
 /* ------------------------------------------------------------------------
@@ -366,3 +324,67 @@ table {
     .social { text-align: center; }
     .social li { display: block; width: 100%; }
 }
+
+.module.social-icons {
+  padding-top: 0;
+  margin-top: 0;
+}
+
+/*Change icons size here*/
+.social-icons .fa {
+	font-size: 1.2em;
+}
+/*Change icons circle size and color here*/
+.social-icons .fa {
+	width: 50px;
+	height: 50px;
+	line-height: 50px;
+	text-align: center;
+	color: #FFF;
+	color: rgba(255, 255, 255, 0.8);
+	-webkit-transition: all 0.3s ease-in-out;
+	-moz-transition: all 0.3s ease-in-out;
+	-ms-transition: all 0.3s ease-in-out;
+	-o-transition: all 0.3s ease-in-out;
+	transition: all 0.3s ease-in-out;
+}
+
+.social-icons.icon-circle .fa{
+	border-radius: 50%;
+}
+.social-icons.icon-rounded .fa{
+	border-radius:5px;
+}
+.social-icons.icon-flat .fa{
+	border-radius: 0;
+}
+
+.social-icons .fa:hover, .social-icons .fa:active {
+	color: #FFF;
+	-webkit-box-shadow: 1px 1px 3px #333;
+	-moz-box-shadow: 1px 1px 3px #333;
+	box-shadow: 1px 1px 3px #333;
+}
+.social-icons.icon-zoom .fa:hover, .social-icons.icon-zoom .fa:active {
+ 	-webkit-transform: scale(1.1);
+	-moz-transform: scale(1.1);
+	-ms-transform: scale(1.1);
+	-o-transform: scale(1.1);
+	transform: scale(1.1);
+}
+.social-icons.icon-rotate .fa:hover, .social-icons.icon-rotate .fa:active {
+	-webkit-transform: scale(1.1) rotate(360deg);
+	-moz-transform: scale(1.1) rotate(360deg);
+	-ms-transform: scale(1.1) rotate(360deg);
+	-o-transform: scale(1.1) rotate(360deg);
+	transform: scale(1.1) rotate(360deg);
+}
+
+.social-icons .fa-facebook,.social-icons .fa-facebook-square{background-color:#3C599F;}
+.social-icons .fa-github,.social-icons .fa-github-alt,.social-icons .fa-github-square{background-color:#070709;}
+.social-icons .fa-google-plus,.social-icons .fa-google-plus-square{background-color:#CF3D2E;}
+.social-icons .fa-linkedin,.social-icons .fa-linkedin-square{background-color:#0085AE;}
+.social-icons .fa-stack-exchange{background-color:#245590;}
+.social-icons .fa-stack-overflow{background-color:#FF7300;}
+.social-icons .fa-twitter,.social-icons .fa-twitter-square{background-color:#32CCFE;}
+.social-icons .fa-rss{background-color:#FF7300;}
