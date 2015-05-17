@@ -192,6 +192,10 @@ Advanced:
 - IITBombayX - Signals and Systems: [Part 1](https://www.edx.org/course/signals-systems-part-1-iitbombayx-ee210-1x), [Part 2](https://www.edx.org/course/signals-systems-part-2-iitbombayx-ee210-2x)
 - RiceX - Discrete Time Signals and Systems: [Part 1 - Time Domain](https://www.edx.org/course/discrete-time-signals-systems-part-1-ricex-elec301-1x), [Part 2 - Frequency Domain](https://www.edx.org/course/discrete-time-signals-systems-part-2-ricex-elec301-2x) - 4 Feb, 18 Mar
 
+Physics:
+
+- [Introductory Physics: Classical Mechanics](https://www.edx.org/course/introductory-physics-classical-mechanics-mitx-8-mechcx)
+
 How much math for ML?
 
 - [What math subjects for machine learning (Stack Overflow)](http://stats.stackexchange.com/questions/68793/what-math-subjects-would-you-suggest-to-prepare-for-data-mining-and-machine-lear)
