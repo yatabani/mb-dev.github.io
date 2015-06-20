@@ -146,6 +146,7 @@ More resources:
 Basics:
 
 - [Introduction to Mathematical Thinking - Stanford](https://www.coursera.org/course/maththink) - Feb 14
+- [MIT OCW - Mathematics for Computer Science](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-042j-mathematics-for-computer-science-fall-2010/video-lectures/) - 25x1 hour lectures = 6 months
 
 Calculus [Book](http://www.amazon.com/gp/product/0914098918/ref=as_li_tl?ie=UTF8&camp=1789&creative=390957&creativeASIN=0914098918&linkCode=as2&tag=moshberg-20&linkId=3UCIMAMDTL3LEUG2):
 

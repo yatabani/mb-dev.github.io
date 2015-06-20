@@ -20,64 +20,69 @@ The list below is a draft / work in progress.
 - Principles Of Written English (From Mar 11)
 
 ### Apr:
-- Mathematical Thinking
+- Machine Learning -> Reactive Computing (from 4/13)
 - Linear Algebra
-- Reactive Computing (from 4/13) - Primary
-- Cloud Computing (until 4/16)
-- Intro to spark (4/30)
 - Academic and Business Writing (from 4/1)
 - Modern Hebrew Poetry
 
-Detailed Schedule (3 evenings a week - Sunday practice):
-3/30 - Math Think; Machine Learning; Hebrew Poetry, Writing; (Cloud Computing)
-4/6  - Math Think, Linear Algebra; Text Retrieval; Hebrew Poetry, Writing; (Algorithms)
-4/13 - Math Think, Linear Algebra; Reactive Computing, Hebrew Poetry, Writing; (Reactive Computing)
-4/20 - Math Think, Linear Algebra; Reactive Computing; Hebrew Poetry, Writing; (Reactive Computing)
-
 ### May:
-- Mathematical Thinking (until single variable)
-- Calculus: Single Variable (from 5/22)
 - Reactive Computing (until 5/30)
-- Think Again: How to Reason and Argue
+- Linear Algebra -> Calculus: Single Variable (from 5/22)
+- Adventures in writing
 - Modern Hebrew Poetry
-
-Detailed Schedule (3 evenings a week - Sunday practice):
-4/27 - Math Think, Linear Algebra; Intro To Spark, Reactive Computing; Hebrew Poetry, Writing; (Spark, Reactive Computing)
-5/4 - Math Think, Linear Algebra; Intro To Spark, Reactive Computing; Hebrew Poetry, How to reason & Argue; (Spark, Reactive Computing)
-5/11 - Math Think, Linear Algebra; Intro To Spark, Reactive Computing; Hebrew Poetry, How to reason & Argue; (Spark, Reactive Computing)
-5/18 - Math Think, Linear Algebra; Intro To Spark, Reactive Computing; Hebrew Poetry, How to reason & Argue; (Spark, Reactive Computing)
-5/25 - Math Think, Linear Algebra; Intro To Spark, Reactive Computing; Hebrew Poetry, How to reason & Argue; (Spark, Reactive Computing)
 
 ### Jun
-- Calculus: Single Variable
-- Scalable Machine Learning
-- Modern Hebrew Poetry
+- Intro to spark (from 6/1) -> Scalable Machine Learning (from 6/29)
+- EDX Calculus 1A (from 6/2) and Calculus: Single Variable.
+- The Analytics Edge (from 6/2)
+- English Composition I: Achieving Expertise (from 6/26)
 
 ### Jul
+- Scalable Machine Learning
 - Calculus: Single Variable
-- Poetry in America: The Poetry of Early New England
+- English Composition I: Achieving Expertise
 
 ### Aug
+- Scalalble Machine Learning (until 7/3)
 - Calculus: Single Variable (until 8/20)
-- Poetry in America: Nature and Nation, 1700-1850
+- English Composition I: Achieving Expertise (until 7/27) -> Think Again: How to Reason and Argue (from 7/25)
 
 ### Sep
-- Mathematical Thinking, Linear Algebra
-- Algorithms - Princeston
-- Poetry in America: Whitman
+- Mathematical Thinking (from 9/21)
+- Algorithms - Princeton (from 9/5)
+- Think Again: How to Reason and Argue
 
 ### Oct
-- Mathematical Thinking, Linear Algebra
-- Algorithms - Princeston
-- Poetry in America: Emily Dickinson
+- Mathematical Thinking
+- Algorithms - Princeton
+- Think Again: How to Reason and Argue
 
 ### Nov:
-- Mathematical Thinking, Linear Algebra
-- Algorithms - Princeston
+- Mathematical Thinking (until 9/27)
+- Algorithms - Princeton
+- Think Again: How to Reason and Argue
 
 ### Dec:
 - Linear Algebra
+- Think Again: How to Reason and Argue (until 12/30)
 
 ### Jan 2016
+- Career Readiness https://www.coursera.org/specializations/career-readiness ?
+
+### Feb 2016
+- CS 188.1x - Artificial Intelligence ?
+- Introduction to Probability - The Science of Uncertainty (starts 2/3)
+
+### Mar 2016
+- CS 188.1x - Artificial Intelligence ?
+- The analytics edge?
 - Introduction to Probability - The Science of Uncertainty
-- Discrete Optimization
+
+### Apr 2016
+- CS 188.1x - Artificial Intelligence ?
+- The analytics edge?
+- Introduction to Probability - The Science of Uncertainty
+
+### May 2016
+- The analytics edge?
+- Introduction to Probability - The Science of Uncertainty (ends 5/26)
