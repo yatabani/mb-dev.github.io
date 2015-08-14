@@ -3,29 +3,50 @@
   {% include header.html %}
   <body>
 
-    <header id="top" class="main-header">
-
-      <div class="module title">
-          <img class="avatar" src="https://avatars2.githubusercontent.com/u/807807?s=460" width="160"/>
-          <h1><a href="/">Moshe Bergman</a></h1>
-          <p>Software development enthusiast</p>
+    <header class="navbar navbar-default">
+      <div class="container-fluid">
+        <div class="navbar-header">
+          <a class="navbar-brand" href="/">Moshe Bergman's Personal Blog</a>
+        </div>
       </div>
-
-      <div class="module links social-icons icon-circle">
-          <a href="http://www.linkedin.com/in/moshebergman/" title="Profile in LinkedIn"><i class="fa fa-linkedin"></i></a>
-          <a href="https://github.com/mb-dev" title="Profile in Github"><i class="fa fa-github"></i></a>
-          <a href="https://twitter.com/MosheBergman" title="Profile in Twitter" target="_blank"><i class="fa fa-twitter"></i></a>
-          <a href="{{ site.url }}/feed.xml" title="Suscribe to RSS" target="_blank"><i class="fa fa-rss"></i></a>
-      </div>
-
-      {% include nav.html %}
-
     </header>
+    <div class="body-container">
+      <div class="side">
+        <img class="avatar" src="https://avatars2.githubusercontent.com/u/807807?s=460" width="160"/>
 
+        <div class="stay-in-touch">
+          <div>
+            Stay in touch:
+          </div>
+          <div class="social-icons">
+            <span class="fa-stack fa-lg linkedin">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <a href="http://www.linkedin.com/in/moshebergman/" title="Profile in LinkedIn"><i class="fa fa-linkedin fa-stack-1x fa-inverse"></i></a>
+            </span>
+            <span class="fa-stack fa-lg github">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <a href="https://github.com/mb-dev" title="Profile in Github"><i class="fa fa-github fa-stack-1x fa-inverse"></i></a>
+            </span>
+            <span class="fa-stack fa-lg twitter">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <a href="https://twitter.com/MosheBergman" title="Profile in Twitter" target="_blank"><i class="fa fa-twitter fa-stack-1x fa-inverse"></i></a>
+            </span>
+            <span class="fa-stack fa-lg rss">
+              <i class="fa fa-circle fa-stack-2x"></i>
+              <a href="{{ site.url }}/feed.xml" title="Suscribe to RSS" target="_blank"><i class="fa fa-rss fa-stack-1x fa-inverse"></i></a>
+            </span>
+          </div>
+        </div>
 
-    {{ content }}
-
-    {% include footer.html %}
+        {% include nav.html %}
+      </div>
+      <div class="main">
+        {{ content }}
+      </div>
+    </div>
+    <footer>
+      {% include footer.html %}
+    </footer>
 
   </body>
 </html>
