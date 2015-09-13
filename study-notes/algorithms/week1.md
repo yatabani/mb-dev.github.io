@@ -22,6 +22,7 @@ title: 'Algorithms'
 - Data Structure #3 (Weighted Quick Union)
   - Keep track of size of trees
   - Union: Smaller trees go to the root of the big tree.
+  - i = root(p), j = root(q)
   - if size[i] < size[j] id[i] = id[j], sz[j] += sz[i]
   - else                 id[j] = id[i], sz[i] += sz[j]
   - Performance: Initialize: N, Union: lg(n), Connected: lg(n)
@@ -50,5 +51,11 @@ title: 'Algorithms'
 - Best Case, Worse Case, Average Case
 - Theta, Big O, Big Omega
 
+![Imgur](http://i.imgur.com/fyv3xqJ.png)
+
+![Imgur](http://i.imgur.com/NirOO08.png)
+
+![](http://i.imgur.com/XAfUokS.png)
+
 ### Memory
-- Typical memory usage for types (picture)
+- Typical memory usage for types
